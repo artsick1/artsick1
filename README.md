@@ -1,4 +1,4 @@
-- I’m @artsick1
+- @artsick1
 - interested in Computer Science 
 
 
