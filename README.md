@@ -1,5 +1,5 @@
 - I’m @artsick1
-- I’m interested in Computer Science 
+- interested in Computer Science 
 
 
 <!---
